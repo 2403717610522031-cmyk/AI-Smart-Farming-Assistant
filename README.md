@@ -38,7 +38,7 @@ Core hardware, sensing and AI modules are being integrated.
 [▶ Watch AI Demo](VIDEO_LINK)
 
 ### 💧 Smart Irrigation Demonstration
-[▶ Watch Irrigation Demo](VIDEO_LINK)
+[▶ Watch Irrigation Demo](https://studio.tripo3d.ai/3d-model/2d6ecb8e-b57e-4ebf-b50e-27caff55140a?invite_code=03071P
 
 ### 🌱 Complete System Demonstration
 [▶ Watch Full System Demo](VIDEO_LINK)
